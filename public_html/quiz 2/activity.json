@@ -1,0 +1,24 @@
+{"quizlist":[
+  
+	{
+	"question":"Which picture shows the sign for My name is?",
+	"option1":"MNI.png",
+	"option2":"WIYN.png",
+	"option3":"test3.png"
+        
+	},
+	{
+	"question":"Which picture shows the sign fot what is your name?",
+	"option1":"WIYN.png",
+	"option2":"test2.png",
+	"option3":"N2MY.png"
+	},
+	{
+	"question":"Which picture shows the sign fot nice to meet you?",
+	"option1":"N2MY.png",
+	"option2":"test2.png",
+	"option3":"test3.png"
+	}
+
+]
+}
